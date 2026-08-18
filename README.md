@@ -1,6 +1,6 @@
 # 📚 KIIT SAP Portal App
 
-A comprehensive, modern student management system designed specifically for KIIT University. This full-stack application streamlines academic operations, attendance tracking, communication, and student services with AI-powered features. 🚀
+A comprehensive, modern student management system designed specifically for KIIT University. This full-stack application streamlines academic operations, attendance tracking, communication, and studen[...]
 
 ---
 
@@ -550,7 +550,13 @@ Development: http://localhost:3000/api/v1
 
 ## 📸 Screenshots
 
-> _Screenshots coming soon_
+| Screenshot | Preview |
+| --- | --- |
+| App Screen 1 | ![Screenshot 1](assets/1.jpg) |
+| App Screen 2 | ![Screenshot 2](assets/2.jpg) |
+| App Screen 3 | ![Screenshot 3](assets/3.jpg) |
+| App Screen 4 | ![Screenshot 4](assets/4.jpg) |
+| App Screen 5 | ![Screenshot 5](assets/5.jpg) |
 
 ---
 
@@ -612,4 +618,3 @@ If you find this project helpful, please consider:
 ---
 
 **Made with ❤️ for KIIT University Students**
-
