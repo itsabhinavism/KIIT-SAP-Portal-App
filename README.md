@@ -550,13 +550,16 @@ Development: http://localhost:3000/api/v1
 
 ## 📸 Screenshots
 
-| Screenshot | Preview |
-| --- | --- |
-| App Screen 1 | ![Screenshot 1](assets/1.jpg) |
-| App Screen 2 | ![Screenshot 2](assets/2.jpg) |
-| App Screen 3 | ![Screenshot 3](assets/3.jpg) |
-| App Screen 4 | ![Screenshot 4](assets/4.jpg) |
-| App Screen 5 | ![Screenshot 5](assets/5.jpg) |
+<p align="center">
+  <img src="assets/1.jpg" alt="Screenshot 1" width="180" />
+  <img src="assets/2.jpg" alt="Screenshot 2" width="180" />
+  <img src="assets/3.jpg" alt="Screenshot 3" width="180" />
+</p>
+
+<p align="center">
+  <img src="assets/4.jpg" alt="Screenshot 4" width="180" />
+  <img src="assets/5.jpg" alt="Screenshot 5" width="180" />
+</p>
 
 ---
 
